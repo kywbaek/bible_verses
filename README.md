@@ -1,4 +1,6 @@
-# bible verses classifier
- - independent project
+# Bible Verses Classifier
+  
+## Project Overview
 
-A model classifying a given bible verse to the right testament using Naive Bayes on jupyter notebook.
+- Classified bible verses to the right Testament using **Naïve Bayes**.
+- Implemented three different approaches to build models to achieve the **AUC score** of 0.76.
